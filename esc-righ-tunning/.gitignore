@@ -1,0 +1,8 @@
+dataset/
+output/
+videos/
+
+# ignore the predicted results
+runs/detect/predict*/
+# ignore the saved model
+runs/detect/train*/weights/
